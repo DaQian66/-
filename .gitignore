@@ -1,0 +1,15 @@
+target/
+dist/
+node_modules/
+uploads/
+backend/uploads/
+*.log
+*.tmp
+*.class
+*.jar
+.idea/
+.agents/
+dev-server.*.log
+auto-imports.d.ts
+components.d.ts
+~$*
